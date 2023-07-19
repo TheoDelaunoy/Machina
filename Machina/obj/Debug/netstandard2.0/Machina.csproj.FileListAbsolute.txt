@@ -1,0 +1,16 @@
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/bin/Debug/netstandard2.0/Machina.deps.json
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/bin/Debug/netstandard2.0/Machina.dll
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/bin/Debug/netstandard2.0/ref/Machina.dll
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/bin/Debug/netstandard2.0/Machina.pdb
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/Machina.csproj.AssemblyReference.cache
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/Machina.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/Machina.AssemblyInfoInputs.cache
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/Machina.AssemblyInfo.cs
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/Machina.csproj.CoreCompileInputs.cache
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/Machina.dll
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/refint/Machina.dll
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/Machina.pdb
+/Users/charmasson.melanie/Projects/Machina/Machina/Machina/obj/Debug/netstandard2.0/ScannerPage.xaml.g.cs
